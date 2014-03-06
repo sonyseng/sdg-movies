@@ -1,2 +1,5 @@
 These are the source files for my COP talk at sdg "Introduction to Chrome Developer Tools"
+The app reaches out to the rotten tomatoes database and lists the box office movies in a flud grid with infinite scroll.
+Plain  Vanilla javascript.
+
 - Sony
