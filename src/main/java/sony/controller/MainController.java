@@ -11,6 +11,7 @@ import org.springframework.web.client.RestTemplate;
 @Controller
 public class MainController {
 
+	// This key is now obsolete. Please register for free with rotten tomatoes api to get your own key
 	private String API_KEY = "xh3njfuje8r6339z4p5855cy";
 	
 	@RequestMapping(value="movies", method=RequestMethod.GET, produces="application/json")
